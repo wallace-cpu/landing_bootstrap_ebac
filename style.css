@@ -1,0 +1,38 @@
+body{
+    font-family: Roboto, sans-serif;
+    object-fit: cover;
+    background-color: darkcyan;
+    
+}
+.navbar{
+    background-color: #e2916b;
+}
+.nav .nav-link.active{
+    background-color: #fff;
+    color: #000;
+}
+.nav .nav-link,
+.navbar-brand
+.navbar-brand:hover{
+    color: #fff;
+}
+
+.navbar-toggler{
+    background-color: aliceblue;
+}
+#sobrecafe{
+    width: 100%;
+    height: auto;
+    
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+.section-title{
+    font-family: pacifico, cursive;
+}
+.section-title span{
+    color: #e2916b;
+}
+
